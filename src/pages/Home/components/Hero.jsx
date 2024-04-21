@@ -27,15 +27,15 @@ export const Hero = () => {
                 <p className="dark:text-black">Taste the World, One Recipe at a Time.</p>
             </div>
             <div className='flex flex-col justify-center items-center text-center mt-4'>
-                <h2 className='font-bold text-[64px]'>
+                <h2 className='font-bold text-[44px] min-md:text-[64px]'>
                 Discover Culinary Delights <br />from Around the Globe
                 </h2>
                 <p className='mt-6 font-medium'>Welcome to our recipe hub, where every dish tells a story. Dive into a world of culinary exploration, 
                 from traditional classics to innovative creations, all meticulously curated to tantalize your taste buds and inspire your culinary adventures</p>
             </div>
             <Link to="/recipes">
-             <button class="relative inline-flex items-center justify-center p-1 px-12 mb-2 me-2 overflow-hidden text-xl font-medium text-gray-900 rounded-lg group bg-[#ff6633] dark:text-white dark:hover:text-gray-900 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-lime-800">
-            <span class="relative px-5 py-2.5 transition-all ease-in duration-75 hover:text-gray-900 font-semibold rounded-md group-hover:bg-opacity-0">
+             <button className="relative inline-flex items-center justify-center p-1 px-12 mb-2 me-2 overflow-hidden text-xl font-medium text-gray-900 rounded-lg group bg-[#ff6633] dark:text-white dark:hover:text-gray-900 focus:ring-4 focus:outline-none focus:ring-lime-200 dark:focus:ring-lime-800">
+            <span className="relative px-5 py-2.5 transition-all ease-in duration-75 hover:text-gray-900 font-semibold rounded-md group-hover:bg-opacity-0">
                 Explore More
             </span>
             </button>

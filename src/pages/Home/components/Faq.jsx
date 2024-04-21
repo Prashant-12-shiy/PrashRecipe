@@ -33,19 +33,19 @@ export const Faq = () => {
   return ( 
     <>
       <div className='faq-heading flex flex-col text-center justify-center mt-20 mb-10 gap-4'>
-        <h1 className='text-4xl font-bold'>Frequently Asked Question </h1>
-        <p>With lots of unique blocks, you can easily build a page without coding. <br /> Build your next landing page.</p>
+        <h1 className='text-4xl font-bold max-md:text-3xl'>Frequently Asked Question </h1>
+        <p className='max-md:text-sm'>With lots of unique blocks, you can easily build a page without coding. <br /> Build your next landing page.</p>
       </div>
 
-      <div className='faq flex flex-col gap-5 w-[70%] m-auto'>
+      <div className='faq flex flex-col gap-5 w-[70%] m-auto max-md:w-full'>
         {FAQContent.map((content, index) => (
-          <div className='content cursor-pointer'>
+          <div key={index} className='content cursor-pointer'>
             <div onClick={() => toggleAnswer(index)} className='w-[80%] flex flex-col text-white'>
               <div className='flex justify-between items-center'>
-                <p>{content.question}</p>
+                <p className='text-sm'>{content.question}</p>
                 <i  className={`bi ${showAns[index] ? 'bi-dash' : 'bi-plus'}`}></i>
               </div>
-              <p className={ `${showAns[index] ? '' : 'hidden'} mt-4 ans`}>{content.answer}</p>
+              <p className={ `${showAns[index] ? '' : 'hidden'} mt-4 ans text-sm`}>{content.answer}</p>
             </div>
           </div>
         ))}

@@ -47,3 +47,40 @@
     border-radius: 30px;
     font-weight: 600;
 }
+
+@media (max-width: 1069px) {
+    .list {
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+
+    .list-content h2 {
+        font-size: 1.5rem;
+    }
+
+    .list-content p {
+        font-size: 14px;
+    }
+}
+
+@media (max-width:900px) {
+    .list-img {
+        height: 70%;
+    }
+}
+
+@media (max-width:700px) {
+    .list {
+        display: block;
+    }
+
+    .list-img {
+        height: 50%;
+        width: 70vw;
+        margin: auto;
+        object-fit: cover;
+        display: flex;
+        justify-content: center;
+        margin-bottom: 30px;
+    }
+}

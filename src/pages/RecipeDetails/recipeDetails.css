@@ -41,3 +41,13 @@
     font-weight: 600;
     margin-bottom: 25px;
 }
+
+@media (max-width:850px) {
+    .details_img img{
+        height: 80%;
+    }
+
+    .recipe-img-section {
+        margin-bottom: 20px;
+    }
+}
