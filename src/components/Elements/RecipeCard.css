@@ -1,0 +1,49 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    margin: 15vh 10vw 30px 10vw;
+    gap : 10vw;
+}
+
+.list-img {
+    height: 402px;
+    width: 150vw;
+}
+
+.list-img img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    
+    border-radius: 30px;
+}
+
+.list-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;   
+    gap: 1rem;
+    text-align: center;
+}
+
+.list-content h2 {
+    font-size: 36px;
+    color: tomato;
+    text-align: center;
+    font-weight: 600;
+   
+}
+
+.list-content p {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.list-content button {
+    padding: 8px 30px;
+    background-color: black;
+    color: tomato ;
+    border-radius: 30px;
+    font-weight: 600;
+}

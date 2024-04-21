@@ -1,0 +1,43 @@
+.recipe_name {
+    text-align: center;
+    font-size: 48px;
+    font-weight: 600;
+    color: tomato;
+    margin-bottom: 60px;
+}
+
+.recipe-img-section {
+    margin: 20px 10vw 80px 10vw;
+    justify-content: center;
+    gap: 10vw;
+    height: 506px;
+}
+
+.details_img  img{
+    height: 100%;
+    width: 412px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+.ingredients ol li {
+    font-size: 12px;
+    font-weight: 600;
+}
+
+.ingredients h3, .method h3 {
+    font-size: 32px;
+    color: tomato;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.method {
+    max-width: 70%;
+    margin: auto;
+}
+
+.method ol li {
+    font-weight: 600;
+    margin-bottom: 25px;
+}

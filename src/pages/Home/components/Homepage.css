@@ -1,0 +1,115 @@
+.hero-img div {
+    width: 191px;
+    height: 381px;
+    animation-timing-function: ease-in;
+}
+
+.hero-img .upward {
+    animation-name: HeroUpwardImg;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+}
+
+.hero-img div img {
+    border-radius: 30px;
+    height: 100%;
+    object-fit: cover;
+  
+}
+
+.hero-img  .upper-img {
+    height: 344px;
+    border-radius: 30px;
+   
+}
+
+.downward {
+   animation-name: HeroDownwardImg;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+}
+
+.hero-img .upper-img img {
+    height: 344px;
+    object-fit: cover;
+    border-radius: 30px;
+}
+
+
+.swiper {
+    width: 100%;
+    height: 338px;
+  }
+  
+  .swiper-slide {
+    width: 246px;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+  
+    /* Center slide text vertically */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 33px;
+  }
+  
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 30px;
+  }
+  
+  .swiper {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+/*This section is For Faq*/
+
+.faq .content {
+  background-color: #454343;
+  border: 2px solid green;
+  border-radius: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  padding: 18px 0px;
+  align-items: center;
+}
+
+.faq .ans {
+  color: rgb(228, 117, 97);
+}
+
+
+.team-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  border: 2px solid green;
+  margin: 20vh 0px;
+  gap: 40px;
+  padding: 50px;
+}
+
+.team-content {
+  width: 100%;
+  
+  border-width: 3px;
+  border-image: linear-gradient(to right, #ff0000, #0000ff);
+  border-image-slice: 1;
+}
+
+
+@keyframes HeroUpwardImg {
+    from {margin-bottom: 100px;}
+    to {margin-bottom: 0px;}
+}
+
+
+@keyframes HeroDownwardImg {
+    from {margin-bottom: 0px;}
+    to {margin-bottom: 100px;}
+}

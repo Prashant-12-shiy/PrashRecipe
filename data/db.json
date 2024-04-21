@@ -1,0 +1,921 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "name": "Spaghetti Bolognese",
+        "country": "Italy",
+        "ingredients": [
+          "300g spaghetti",
+          "400g ground beef",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "400g can chopped tomatoes",
+          "2 tablespoons tomato paste",
+          "1 teaspoon dried oregano",
+          "1 teaspoon dried basil",
+          "Salt and pepper to taste",
+          "Grated Parmesan cheese for serving"
+        ],
+        "description": " A classic Italian pasta dish featuring al dente spaghetti noodles topped with a rich and hearty meat sauce made with ground beef, tomatoes, onions, garlic, carrots, celery, and a blend of herbs and spices. It's a comforting and satisfying meal that's perfect for family dinners or gatherings.",
+        "method": [
+          "Cook spaghetti according to package instructions.",
+          "In a large skillet, brown the ground beef over medium heat, breaking it up with a spoon.",
+          "Add the onion and garlic to the skillet and cook until softened.",
+          "Stir in the chopped tomatoes, tomato paste, oregano, basil, salt, and pepper. Simmer for 15-20 minutes.",
+          "Serve the sauce over the cooked spaghetti, topped with grated Parmesan cheese."
+        ],
+        "img": "/assets/img/Spaghetti Bolognese.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Chicken Stir-Fry",
+        "country": "American",
+        "ingredients": [
+          "2 chicken breasts, thinly sliced",
+          "1 red bell pepper, sliced",
+          "1 green bell pepper, sliced",
+          "1 onion, sliced",
+          "2 cloves garlic, minced",
+          "1 tablespoon soy sauce",
+          "1 tablespoon oyster sauce",
+          "1 teaspoon sesame oil",
+          "Salt and pepper to taste",
+          "Cooked rice for serving"
+        ],
+        "description": "A flavorful and versatile dish made by quickly cooking bite-sized pieces of chicken breast with an assortment of colorful vegetables such as bell peppers, broccoli, carrots, and snap peas in a savory sauce made with soy sauce, garlic, ginger, and sesame oil. Chicken stir-fry is a quick and healthy meal option that pairs well with rice or noodles.",
+        "method": [
+          "Heat oil in a large skillet or wok over high heat.",
+          "Add the chicken and cook until browned and cooked through. Remove from skillet.",
+          "Add a little more oil to the skillet if needed, then add the bell peppers, onion, and garlic. Stir-fry until tender-crisp.",
+          "Return the chicken to the skillet. Add soy sauce, oyster sauce, sesame oil, salt, and pepper. Stir to combine and heat through.",
+          "Serve over cooked rice."
+        ],
+        "img": "/assets/img/Chicken Stir-Fry.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Classic Chocolate Chip Cookies",
+        "country": "Italy",
+        "ingredients": [
+          "1 cup (2 sticks) unsalted butter, softened",
+          "3/4 cup granulated sugar",
+          "3/4 cup packed brown sugar",
+          "2 large eggs",
+          "1 teaspoon vanilla extract",
+          "2 1/4 cups all-purpose flour",
+          "1 teaspoon baking soda",
+          "1/2 teaspoon salt",
+          "2 cups semisweet chocolate chips"
+        ],
+        "description": "These cookies are a timeless favorite, featuring a chewy and soft texture with pockets of melted chocolate chips in every bite. Made with a simple combination of ingredients including flour, butter, sugar, eggs, vanilla extract, baking soda, and chocolate chips, these cookies are perfect for satisfying sweet cravings and are enjoyed by both kids and adults alike.",
+        "method": [
+          "Preheat oven to 375°F (190°C).",
+          "In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.",
+          "Beat in eggs one at a time, then stir in vanilla extract.",
+          "In a separate bowl, combine flour, baking soda, and salt. Gradually add dry ingredients to the creamed mixture and mix well.",
+          "Stir in chocolate chips.",
+          "Drop tablespoonfuls of dough onto ungreased baking sheets.",
+          "Bake for 8-10 minutes or until golden brown. Allow to cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+        ],
+        "img": "/assets/img/Classic Chocolate Chip Cookies.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Vegetable Soup",
+        "country": "American",
+        "ingredients": [
+          "2 tablespoons olive oil",
+          "1 onion, chopped",
+          "2 carrots, sliced",
+          "2 celery stalks, sliced",
+          "2 cloves garlic, minced",
+          "1 can (14 oz) diced tomatoes",
+          "4 cups vegetable broth",
+          "1 teaspoon dried thyme",
+          "1 teaspoon dried oregano",
+          "1 cup chopped green beans",
+          "1 cup corn kernels",
+          "Salt and pepper to taste",
+          "Fresh parsley for garnish"
+        ],
+        "description": " A comforting and nutritious soup made with an assortment of fresh vegetables such as carrots, celery, onions, potatoes, and tomatoes, simmered in a flavorful broth made from vegetable stock, herbs, and spices. Vegetable soup is a versatile dish that can be customized with your favorite vegetables and is perfect for warming up on chilly days or as a light and healthy meal option.",
+        "method": [
+          "In a large pot, heat olive oil over medium heat.",
+          "Add onion, carrots, and celery. Cook until vegetables are softened.",
+          "Add garlic and cook for another minute.",
+          "Stir in diced tomatoes, vegetable broth, thyme, and oregano. Bring to a simmer.",
+          "Add green beans and corn. Simmer for about 15-20 minutes until vegetables are tender.",
+          "Season with salt and pepper to taste.",
+          "Serve hot, garnished with fresh parsley."
+        ],
+        "img": "/assets/img/Vegetable Soup.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Margherita Pizza",
+        "country": "Italy",
+        "ingredients": [
+          "1 pizza dough (homemade or store-bought)",
+          "1/2 cup pizza sauce",
+          "2 cups shredded mozzarella cheese",
+          "2 ripe tomatoes, thinly sliced",
+          "Fresh basil leaves",
+          "Extra virgin olive oil",
+          "Salt and pepper to taste"
+        ],
+        "description": "A classic Italian pizza topped with tangy tomato sauce, fresh mozzarella cheese, basil leaves, and a drizzle of olive oil, baked until the crust is crispy and golden brown. It's a timeless favorite that celebrates the flavors of Italy.",
+        "method": [
+          "Preheat oven to 475°F (245°C).",
+          "Roll out pizza dough on a floured surface to your desired thickness.",
+          "Spread pizza sauce evenly over the dough, leaving a small border around the edges.",
+          "Sprinkle shredded mozzarella cheese over the sauce.",
+          "Arrange tomato slices on top of the cheese.",
+          "Tear basil leaves and scatter them over the pizza.",
+          "Drizzle a little olive oil over the top and season with salt and pepper.",
+          "Bake in preheated oven for 12-15 minutes or until crust is golden brown and cheese is bubbly.",
+          "Slice and serve hot."
+        ],
+        "img": "/assets/img/Margherita Pizza.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Chicken Alfredo Pasta",
+        "country": "Italy",
+        "ingredients": [
+          "8 oz fettuccine pasta",
+          "2 chicken breasts, sliced",
+          "2 tablespoons olive oil",
+          "2 cloves garlic, minced",
+          "1 cup heavy cream",
+          "1/2 cup grated Parmesan cheese",
+          "Salt and pepper to taste",
+          "Chopped parsley for garnish"
+        ],
+        "description": " Fettuccine pasta tossed in a creamy Alfredo sauce made with heavy cream, Parmesan cheese, and garlic, then topped with tender slices of chicken breast and garnished with chopped parsley. It's a comforting and indulgent Italian-American dish.",
+        "method": [
+          "Cook fettuccine pasta according to package instructions. Drain and set aside.",
+          "In a large skillet, heat olive oil over medium-high heat. Add sliced chicken breasts and cook until browned and cooked through. Remove from skillet and set aside.",
+          "In the same skillet, add minced garlic and sauté until fragrant.",
+          "Reduce heat to medium-low. Pour in heavy cream and stir until heated through.",
+          "Stir in grated Parmesan cheese until melted and sauce has thickened.",
+          "Season with salt and pepper to taste.",
+          "Add cooked fettuccine pasta and cooked chicken to the skillet. Toss until pasta and chicken are evenly coated with the sauce.",
+          "Garnish with chopped parsley before serving."
+        ],
+        "img": "/assets/img/Chicken Alfredo Pasta.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Vegetarian Quinoa Salad",
+        "ingredients": [
+          "1 cup quinoa, rinsed",
+          "2 cups water or vegetable broth",
+          "1 red bell pepper, diced",
+          "1 yellow bell pepper, diced",
+          "1 cucumber, diced",
+          "1/2 cup cherry tomatoes, halved",
+          "1/4 cup red onion, finely chopped",
+          "1/4 cup fresh parsley, chopped",
+          "1/4 cup feta cheese, crumbled",
+          "1/4 cup olive oil",
+          "2 tablespoons lemon juice",
+          "1 teaspoon Dijon mustard",
+          "Salt and pepper to taste"
+        ],
+        "description": " A refreshing salad made with cooked quinoa, diced bell peppers, cucumber, cherry tomatoes, red onion, parsley, and feta cheese, dressed with a tangy vinaigrette. It's a nutritious and flavorful dish perfect for a light lunch or side dish.",
+        "method": [
+          "In a medium saucepan, bring water or vegetable broth to a boil. Add quinoa, reduce heat to low, cover, and simmer for 15-20 minutes or until quinoa is cooked and liquid is absorbed. Remove from heat and let it cool.",
+          "In a large bowl, combine cooked quinoa, diced bell peppers, cucumber, cherry tomatoes, red onion, parsley, and feta cheese.",
+          "In a small bowl, whisk together olive oil, lemon juice, Dijon mustard, salt, and pepper.",
+          "Pour dressing over the salad and toss until well combined.",
+          "Serve chilled or at room temperature."
+        ],
+        "img": "/assets/img/Vegetarian Quinoa Salad.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Classic Cheeseburger",
+        "ingredients": [
+          "1 lb ground beef",
+          "Salt and pepper to taste",
+          "4 hamburger buns",
+          "4 slices cheddar cheese",
+          "Lettuce leaves",
+          "Sliced tomatoes",
+          "Sliced onions",
+          "Pickles",
+          "Ketchup and mustard (optional)"
+        ],
+        "description": "Juicy beef patties seasoned with salt and pepper, topped with melted cheddar cheese, lettuce, tomato, onion, and pickles, sandwiched between toasted hamburger buns and served with ketchup and mustard. It's a timeless American favorite that's satisfying and delicious.",
+        "method": [
+          "Divide ground beef into 4 equal portions and shape each portion into a patty. Season both sides with salt and pepper.",
+          "Preheat grill or skillet over medium-high heat. Cook burgers for 4-5 minutes per side or until desired doneness is reached.",
+          "During the last minute of cooking, place a slice of cheddar cheese on top of each burger and let it melt.",
+          "Toast hamburger buns on the grill or skillet.",
+          "Assemble burgers by placing lettuce leaves, sliced tomatoes, onions, and pickles on the bottom half of each bun. Top with a cheeseburger patty and the top half of the bun.",
+          "Serve with ketchup and mustard on the side, if desired."
+        ],
+        "img": "/assets/img/Classic Cheeseburger.jpg"
+      },
+      {
+        "id": 9,
+        "name": "Butter Chicken (Murgh Makhani)",
+        "country": "Indian",
+        "ingredients": [
+          "500g boneless chicken, cut into bite-sized pieces",
+          "1 cup plain yogurt",
+          "3 tablespoons butter",
+          "1 onion, finely chopped",
+          "2 cloves garlic, minced",
+          "1-inch piece of ginger, minced",
+          "1 teaspoon ground coriander",
+          "1 teaspoon ground cumin",
+          "1 teaspoon garam masala",
+          "1/2 teaspoon turmeric powder",
+          "1/2 teaspoon chili powder",
+          "1 cup tomato puree",
+          "1/2 cup heavy cream",
+          "Salt and pepper to taste",
+          "Fresh coriander leaves for garnish"
+        ],
+        "description": "Tender chicken marinated in yogurt and spices, cooked in a creamy tomato-based sauce with butter, and garnished with fresh coriander leaves. It's a classic Indian dish that's rich, flavorful, and comforting.",
+        "method": [
+          "Marinate chicken pieces in yogurt for at least 1 hour.",
+          "In a large skillet, melt butter over medium heat. Add chopped onion and cook until translucent.",
+          "Add minced garlic and ginger, cook for another minute.",
+          "Add ground coriander, cumin, garam masala, turmeric, and chili powder. Stir well to combine.",
+          "Stir in tomato puree and simmer for 5 minutes.",
+          "Add marinated chicken pieces along with the yogurt marinade to the skillet. Cook until chicken is cooked through.",
+          "Stir in heavy cream and simmer for another 5 minutes.",
+          "Season with salt and pepper to taste.",
+          "Garnish with fresh coriander leaves before serving."
+        ],
+        "img": "/assets/img/Butter Chicken (Murgh Makhani).jpg"
+      },
+      {
+        "id": 10,
+        "name": "Palak Paneer",
+        "country": "Indian",
+        "ingredients": [
+          "200g paneer, cut into cubes",
+          "2 bunches spinach, washed and chopped",
+          "1 onion, chopped",
+          "2 tomatoes, chopped",
+          "2 green chilies, chopped",
+          "2 cloves garlic, minced",
+          "1-inch piece of ginger, minced",
+          "1 teaspoon cumin seeds",
+          "1 teaspoon garam masala",
+          "1/2 teaspoon turmeric powder",
+          "1/2 teaspoon red chili powder",
+          "1/2 cup heavy cream",
+          "Salt to taste"
+        ],
+        "description": "A creamy spinach curry with chunks of paneer (Indian cottage cheese), flavored with garlic, ginger, and aromatic spices like cumin and garam masala. It's a nutritious and delicious vegetarian dish popular in Indian cuisine.",
+        "method": [
+          "Blanch chopped spinach in boiling water for 2 minutes. Drain and immediately transfer to ice water to retain the green color. Drain again and blend into a smooth paste.",
+          "Heat oil in a pan, add cumin seeds and let them splutter.",
+          "Add chopped onions and sauté until golden brown.",
+          "Add minced ginger, garlic, and green chilies. Sauté for another minute.",
+          "Add chopped tomatoes and cook until they turn mushy.",
+          "Add turmeric powder, red chili powder, and garam masala. Mix well.",
+          "Add the spinach puree and cook for 5 minutes.",
+          "Add paneer cubes and cook for another 2-3 minutes.",
+          "Stir in heavy cream and simmer for a few more minutes.",
+          "Season with salt to taste.",
+          "Serve hot with naan or rice."
+        ],
+        "img": "/assets/img/Palak Paneer.jpg"
+      },
+      {
+        "id": 11,
+        "name": "Vegetable Biryani",
+        "country": "Indian",
+        "ingredients": [
+          "1 cup basmati rice, washed and soaked for 30 minutes",
+          "1 onion, thinly sliced",
+          "1 carrot, diced",
+          "1 potato, diced",
+          "1/2 cup green beans, chopped",
+          "1/2 cup cauliflower florets",
+          "1/4 cup green peas",
+          "2 tomatoes, chopped",
+          "2 green chilies, slit lengthwise",
+          "2 cloves garlic, minced",
+          "1-inch piece of ginger, minced",
+          "1/2 teaspoon cumin seeds",
+          "1/2 teaspoon turmeric powder",
+          "1 teaspoon garam masala",
+          "1/2 teaspoon red chili powder",
+          "1/4 cup yogurt",
+          "2 tablespoons ghee",
+          "A handful of fresh coriander leaves, chopped",
+          "A handful of mint leaves, chopped",
+          "Salt to taste",
+          "Fried onions for garnish"
+        ],
+        "description": " Fragrant basmati rice cooked with assorted vegetables, flavored with aromatic spices like cumin, turmeric, and garam masala, and garnished with fried onions, fresh mint, and coriander leaves. It's a flavorful and satisfying one-pot meal in Indian cuisine.",
+        "method": [
+          "Heat ghee in a heavy-bottomed pan. Add cumin seeds and let them splutter.",
+          "Add thinly sliced onions and fry until golden brown. Remove half of the fried onions and set aside for garnish.",
+          "Add minced ginger, garlic, and green chilies. Sauté for a minute.",
+          "Add chopped tomatoes and cook until they turn mushy.",
+          "Add diced carrots, potatoes, green beans, cauliflower florets, and green peas. Mix well.",
+          "Add turmeric powder, red chili powder, and garam masala. Stir to combine.",
+          "In a bowl, whisk yogurt until smooth. Add it to the pan and mix well.",
+          "Drain the soaked basmati rice and add it to the pan. Stir gently to coat the rice with the masala.",
+          "Add enough water to cook the rice (about 2 cups). Season with salt.",
+          "Cover the pan with a tight-fitting lid and cook on low heat until the rice is cooked and water is absorbed, about 15-20 minutes.",
+          "Once cooked, fluff the rice with a fork and garnish with chopped coriander leaves, mint leaves, and fried onions.",
+          "Serve hot with raita (yogurt dip)."
+        ],
+        "img": "/assets/img/Vegetable Biryani.jpg"
+      },
+      {
+        "id": 12,
+        "name": "Dal Bhat",
+        "country": "Nepali",
+        "ingredients": [
+          "1 cup lentils (masoor dal or mung dal)",
+          "2 cups water",
+          "2 tablespoons ghee or vegetable oil",
+          "1 onion, chopped",
+          "2 cloves garlic, minced",
+          "1-inch piece of ginger, minced",
+          "1 tomato, chopped",
+          "1 teaspoon turmeric powder",
+          "1 teaspoon cumin powder",
+          "1 teaspoon coriander powder",
+          "1/2 teaspoon red chili powder",
+          "Salt to taste",
+          "Fresh cilantro for garnish",
+          "Cooked rice for serving"
+        ],
+        "description": ": A staple dish in Nepali cuisine, Dal Bhat consists of lentils (dal) served with steamed rice (bhat), accompanied by a variety of side dishes such as vegetables, pickles, and sometimes meat. It's a wholesome and nutritious meal that's enjoyed by people of all ages in Nepal.",
+        "method": [
+          "Rinse lentils under cold water until the water runs clear.",
+          "In a large pot, combine lentils and water. Bring to a boil, then reduce heat and simmer until lentils are soft and cooked through, about 20-30 minutes.",
+          "In a separate pan, heat ghee or oil over medium heat. Add chopped onion and sauté until golden brown.",
+          "Add minced garlic and ginger, and sauté for another minute.",
+          "Add chopped tomato and cook until soft.",
+          "Add turmeric powder, cumin powder, coriander powder, and red chili powder. Stir well to combine.",
+          "Transfer the cooked lentils to the pan with the spice mixture. Mix well and cook for another 5-10 minutes, adding water if needed to achieve desired consistency.",
+          "Season with salt to taste.",
+          "Garnish with fresh cilantro and serve hot with cooked rice."
+        ],
+        "img": "/assets/img/Dal Bhat.jpg"
+      },
+      {
+        "id": 13,
+        "name": "Momos",
+        "country": "Nepali",
+        "ingredients": [
+          "For the dough:",
+          "2 cups all-purpose flour",
+          "Water, as needed",
+          "For the filling:",
+          "250g ground chicken or vegetables (cabbage, carrot, and onion)",
+          "2 cloves garlic, minced",
+          "1-inch piece of ginger, minced",
+          "2 green chilies, finely chopped",
+          "1 tablespoon soy sauce",
+          "1 teaspoon sesame oil",
+          "1/2 teaspoon ground Sichuan pepper",
+          "Salt to taste",
+          "For the dipping sauce:",
+          "2 tablespoons soy sauce",
+          "1 tablespoon vinegar",
+          "1 teaspoon sesame oil",
+          "1 teaspoon chili sauce"
+        ],
+        "description": " Nepali dumplings filled with a mixture of ground meat or vegetables, seasoned with garlic, ginger, and spices, then wrapped in thin dough and steamed or fried until cooked through. Momos are often served with a spicy dipping sauce and are a popular street food and appetizer in Nepal.",
+        "method": [
+          "In a large mixing bowl, combine all-purpose flour with enough water to make a smooth dough. Knead the dough for about 5 minutes, then cover and let it rest for 30 minutes.",
+          "In another bowl, mix together ground chicken or vegetables with minced garlic, ginger, green chilies, soy sauce, sesame oil, ground Sichuan pepper, and salt. Mix well to combine.",
+          "Divide the dough into small portions and roll each portion into a thin circle.",
+          "Place a spoonful of filling in the center of each circle. Fold the dough over the filling and pinch the edges to seal, creating a crescent shape.",
+          "Steam momos in a steamer for about 10-12 minutes until cooked through.",
+          "Meanwhile, prepare the dipping sauce by mixing soy sauce, vinegar, sesame oil, and chili sauce in a small bowl.",
+          "Serve momos hot with the dipping sauce."
+        ],
+        "img": "/assets/img/momos.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Sel Roti",
+        "country": "Nepali",
+        "ingredients": [
+          "2 cups rice flour",
+          "1/2 cup all-purpose flour",
+          "1 cup ripe bananas, mashed",
+          "1/2 cup sugar",
+          "1/2 teaspoon cardamom powder",
+          "1/2 teaspoon baking powder",
+          "Water, as needed",
+          "Vegetable oil for deep frying"
+        ],
+        "description": "A traditional Nepali rice flour bread, Sel Roti is made by fermenting a batter of rice flour, sugar, and ripe bananas, then deep-frying it into a ring shape until golden brown and crispy on the outside, with a soft and fluffy texture on the inside. It's often enjoyed as a breakfast or snack in Nepal, especially during festivals and special occasions.",
+        "method": [
+          "In a large mixing bowl, combine rice flour, all-purpose flour, mashed bananas, sugar, cardamom powder, and baking powder.",
+          "Gradually add water and mix until you get a smooth batter. The consistency should be similar to pancake batter.",
+          "Heat vegetable oil in a deep frying pan over medium heat.",
+          "Pour a small amount of batter into the hot oil in a circular motion to form a ring shape. Make sure the ring is not too thick.",
+          "Fry until the bottom side is golden brown, then carefully flip and fry the other side until golden brown.",
+          "Remove from oil and drain on paper towels.",
+          "Repeat with the remaining batter.",
+          "Serve sel roti warm or at room temperature."
+        ],
+        "img": "/assets/img/Sel Roti.jpeg"
+      },
+      {
+        "id": 15,
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "400g spaghetti",
+          "200g pancetta or guanciale, diced",
+          "4 large eggs",
+          "1 cup grated Pecorino Romano cheese",
+          "1/4 cup grated Parmesan cheese",
+          "2 cloves garlic, minced",
+          "Salt and black pepper to taste",
+          "Fresh parsley for garnish"
+        ],
+        "description": "Spaghetti pasta coated in a creamy sauce made with eggs, Parmesan cheese, and pancetta or bacon, seasoned with garlic and black pepper. It's a simple yet indulgent Italian pasta dish that's sure to impress.",
+        "method": [
+          "Cook spaghetti in a large pot of salted boiling water until al dente. Reserve 1 cup of pasta water, then drain the spaghetti.",
+          "In a skillet, cook diced pancetta or guanciale until crispy. Add minced garlic and cook until fragrant. Remove from heat.",
+          "In a bowl, whisk together eggs, grated Pecorino Romano cheese, and grated Parmesan cheese. Season with salt and black pepper.",
+          "Add cooked spaghetti to the skillet with pancetta/guanciale and garlic. Toss to combine.",
+          "Pour the egg and cheese mixture over the spaghetti and quickly toss to coat. The heat from the pasta will cook the eggs and create a creamy sauce. If the sauce is too thick, add some reserved pasta water to thin it out.",
+          "Serve immediately, garnished with chopped fresh parsley."
+        ],
+        "img": "/assets/img/Spaghetti Carbonara.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Tiramisu",
+        "country": "Japanese",
+        "ingredients": [
+          "6 egg yolks",
+          "3/4 cup granulated sugar",
+          "1 cup mascarpone cheese",
+          "1 1/2 cups heavy cream",
+          "2 cups brewed espresso or strong coffee, cooled",
+          "1/4 cup coffee liqueur (optional)",
+          "1 package (about 24) ladyfingers",
+          "2 tablespoons unsweetened cocoa powder"
+        ],
+        "description": " Layers of coffee-soaked ladyfingers and creamy mascarpone cheese mixture, dusted with cocoa powder and served chilled. It's a decadent Italian dessert that's rich, indulgent, and perfect for special occasions.",
+        "method": [
+          "In a heatproof bowl, whisk together egg yolks and sugar until well combined.",
+          "Place the bowl over a pot of simmering water, making sure the bottom of the bowl doesn't touch the water. Whisk constantly until the mixture thickens and doubles in volume, about 5-7 minutes.",
+          "Remove from heat and let it cool slightly.",
+          "Whisk in mascarpone cheese until smooth and creamy.",
+          "In a separate bowl, whip heavy cream until stiff peaks form.",
+          "Gently fold the whipped cream into the mascarpone mixture until well combined.",
+          "In a shallow dish, combine brewed espresso or coffee with coffee liqueur, if using.",
+          "Quickly dip each ladyfinger into the espresso mixture, making sure not to soak them too long or they'll become too soggy.",
+          "Arrange a layer of dipped ladyfingers in the bottom of a serving dish.",
+          "Spread half of the mascarpone mixture over the ladyfingers.",
+          "Repeat with another layer of dipped ladyfingers and the remaining mascarpone mixture.",
+          "Cover and refrigerate for at least 4 hours or overnight to set.",
+          "Before serving, dust the top with unsweetened cocoa powder.",
+          "Slice and serve chilled."
+        ],
+        "img": "/assets/img/Tiramisu.jpg"
+      },
+      {
+        "id": 17,
+        "name": "Chicken Teriyaki",
+        "country": "Japanese",
+        "ingredients": [
+          "4 boneless, skinless chicken thighs",
+          "1/4 cup soy sauce",
+          "1/4 cup mirin",
+          "2 tablespoons sake (or dry white wine)",
+          "2 tablespoons brown sugar",
+          "1 tablespoon vegetable oil",
+          "1 clove garlic, minced",
+          "1 teaspoon grated ginger",
+          "Toasted sesame seeds for garnish",
+          "Thinly sliced green onions for garnish"
+        ],
+        "description":" Juicy chicken thighs cooked in a sweet and savory teriyaki sauce, served with a bed of steamed rice and topped with sesame seeds and green onions.",
+        "method": [
+          "In a bowl, whisk together soy sauce, mirin, sake, brown sugar, minced garlic, and grated ginger to make the teriyaki sauce.",
+          "Heat vegetable oil in a large skillet over medium-high heat.",
+          "Add chicken thighs to the skillet and cook until browned on both sides, about 4-5 minutes per side.",
+          "Reduce heat to medium-low. Pour teriyaki sauce over the chicken thighs and simmer until the sauce thickens and coats the chicken, about 5-7 minutes.",
+          "Remove from heat and let the chicken rest for a few minutes.",
+          "Slice chicken thighs and garnish with toasted sesame seeds and thinly sliced green onions.",
+          "Serve hot with steamed rice and vegetables."
+        ],
+        "img": "/assets/img/Chicken Teriyaki.jpg"
+      },
+      {
+        "id": 18,
+        "name": "Vegetable Tempura",
+        "country": "Japanese",
+        "ingredients": [
+          "Assorted vegetables (such as bell peppers, sweet potatoes, broccoli, mushrooms, and green beans), cut into bite-sized pieces",
+          "1 cup all-purpose flour",
+          "1 cup ice-cold water",
+          "Vegetable oil for frying",
+          "Salt",
+          "Tempura dipping sauce (tentsuyu), for serving"
+        ],
+        "description": " Crispy and light tempura batter coats assorted vegetables, fried to perfection and served with a dipping sauce, making it a delightful Japanese appetizer or side dish.",
+        "method": [
+          "In a large bowl, combine all-purpose flour and ice-cold water. Mix until just combined. The batter should be slightly lumpy.",
+          "Heat vegetable oil in a deep fryer or large pot to 350°F (180°C).",
+          "Dip assorted vegetables into the tempura batter, making sure they are well coated.",
+          "Carefully place the battered vegetables into the hot oil and fry in batches until golden brown and crispy, about 2-3 minutes.",
+          "Remove from oil and drain on paper towels. Sprinkle with salt while still hot.",
+          "Serve hot with tempura dipping sauce (tentsuyu)."
+        ],
+        "img": "/assets/img/Vegetable Tempura.jpg"
+      },
+      {
+        "id": 19,
+        "name": "Sushi Rolls (Maki)",
+        "country": "Japanese",
+        "ingredients": [
+          "Nori (seaweed) sheets",
+          "Sushi rice (cooked and seasoned with rice vinegar, sugar, and salt)",
+          "Assorted fillings (such as cucumber sticks, avocado slices, cooked shrimp, imitation crab, smoked salmon, etc.)",
+          "Soy sauce, for serving",
+          "Pickled ginger, for serving",
+          "Wasabi, for serving"
+        ],
+        "description": "Nori sheets filled with seasoned sushi rice and an assortment of fillings such as cucumber, avocado, and seafood, rolled into a delicious bite-sized treat served with soy sauce, pickled ginger, and wasabi.",
+        "method": [
+          "Place a nori sheet shiny side down on a bamboo sushi rolling mat.",
+          "Spread a thin layer of sushi rice over the nori sheet, leaving a 1-inch border at the top edge.",
+          "Arrange your desired fillings horizontally across the center of the rice.",
+          "Lift the bottom edge of the bamboo mat and roll it over the fillings, using your fingers to tuck the fillings in tightly.",
+          "Continue rolling until the entire nori sheet is rolled up, sealing the edge with a little water if necessary.",
+          "Using a sharp knife, slice the sushi roll into bite-sized pieces.",
+          "Serve with soy sauce, pickled ginger, and wasabi."
+        ],
+        "img": "/assets/img/Sushi Rolls (Maki).jpg"
+      },
+      {
+        "id": 20,
+        "name": "Bibimbap",
+        "country": "Korean",
+        "ingredients": [
+          "2 cups cooked short-grain rice",
+          "1 carrot, julienned",
+          "1 zucchini, julienned",
+          "1 cup spinach, blanched and squeezed dry",
+          "1 cup bean sprouts, blanched",
+          "4 shiitake mushrooms, sliced and sautéed",
+          "4 ounces beef (ribeye or sirloin), thinly sliced",
+          "4 eggs",
+          "2 tablespoons sesame oil",
+          "2 tablespoons soy sauce",
+          "1 tablespoon gochujang (Korean chili paste)",
+          "1 tablespoon sesame seeds",
+          "Salt and pepper to taste",
+          "Vegetable oil for cooking"
+        ],
+        "description": "A vibrant Korean dish featuring a colorful array of vegetables, marinated beef, and a fried egg served over a bowl of rice, topped with a spicy gochujang sauce for a satisfying meal.",
+        "method": [
+          "Divide cooked rice among serving bowls.",
+          "Arrange julienned vegetables, blanched spinach, bean sprouts, sautéed mushrooms, and sliced beef on top of the rice.",
+          "Heat vegetable oil in a skillet over medium heat. Fry eggs sunny side up or over easy.",
+          "Place a fried egg on top of each bowl.",
+          "In a small bowl, mix together sesame oil, soy sauce, gochujang, sesame seeds, salt, and pepper to make the bibimbap sauce.",
+          "Drizzle bibimbap sauce over each bowl.",
+          "Serve immediately, stirring everything together before eating."
+        ],
+        "img": "/assets/img/Bibimbap.jpeg"
+      },
+      {
+        "id": 21,
+        "name": "Kimchi Fried Rice",
+        "country": "Korean",
+        "ingredients": [
+          "2 cups cooked short-grain rice",
+          "1 cup kimchi, chopped",
+          "4 slices bacon, chopped",
+          "1/2 onion, chopped",
+          "2 cloves garlic, minced",
+          "2 green onions, chopped",
+          "2 tablespoons soy sauce",
+          "1 tablespoon sesame oil",
+          "1 teaspoon gochugaru (Korean chili flakes, optional)",
+          "Salt and pepper to taste",
+          "Vegetable oil for cooking",
+          "Fried eggs for serving"
+        ],
+        "description": " A flavorful Korean fried rice dish made with kimchi, bacon, and vegetables, seasoned with soy sauce and sesame oil, and topped with a fried egg for a comforting and satisfying meal.",
+        "method": [
+          "Heat vegetable oil in a large skillet over medium heat.",
+          "Add chopped bacon and cook until crispy.",
+          "Add chopped onion and minced garlic, and sauté until onion is translucent.",
+          "Stir in chopped kimchi and cook for another 2-3 minutes.",
+          "Add cooked rice to the skillet and stir-fry until heated through.",
+          "Season with soy sauce, sesame oil, gochugaru (if using), salt, and pepper. Mix well.",
+          "Garnish with chopped green onions.",
+          "Serve hot, topped with fried eggs."
+        ],
+        "img": "/assets/img/Kimchi Fried Rice.jpg"
+      },
+      {
+        "id": 22,
+        "name": "Korean BBQ (Bulgogi)",
+        "country": "Korean",
+        "ingredients": [
+          "1 lb beef (ribeye or sirloin), thinly sliced",
+          "1/2 onion, thinly sliced",
+          "2 green onions, chopped",
+          "3 cloves garlic, minced",
+          "1/4 cup soy sauce",
+          "2 tablespoons brown sugar",
+          "1 tablespoon sesame oil",
+          "1 tablespoon mirin (rice wine) or dry white wine",
+          "1 tablespoon sesame seeds",
+          "1/2 teaspoon black pepper",
+          "1/2 pear, grated (optional, for tenderizing)"
+        ],
+        "description": " Thinly sliced beef marinated in a sweet and savory sauce, grilled to perfection and served with steamed rice, making it a popular and delicious Korean barbecue dish.",
+        "method": [
+          "In a bowl, mix together soy sauce, brown sugar, sesame oil, mirin, minced garlic, grated pear (if using), sesame seeds, and black pepper to make the marinade.",
+          "Add thinly sliced beef, onion slices, and chopped green onions to the marinade. Mix until well coated.",
+          "Cover and refrigerate for at least 30 minutes, or overnight for best results.",
+          "Heat a grill or skillet over medium-high heat.",
+          "Cook marinated beef slices for 2-3 minutes on each side, or until cooked to your desired doneness.",
+          "Serve hot, garnished with additional chopped green onions and sesame seeds if desired.",
+          "Enjoy with steamed rice and side dishes."
+        ],
+        "img": "/assets/img/Korean BBQ (Bulgogi).jpg"
+      },
+      {
+        "id": 23,
+        "name": "Classic Shoyu Ramen",
+        "country": "Korean",
+        "ingredients": [
+          "4 packs of ramen noodles (or fresh ramen noodles)",
+          "6 cups chicken or vegetable broth",
+          "4 slices of pork belly or chashu (Japanese braised pork)",
+          "2 soft-boiled eggs, halved",
+          "2 sheets of nori (seaweed), cut into halves",
+          "2 cups chopped bok choy or spinach",
+          "2 green onions, thinly sliced",
+          "2 cloves garlic, minced",
+          "1 tablespoon ginger, grated",
+          "2 tablespoons soy sauce",
+          "1 tablespoon mirin (Japanese rice wine)",
+          "1 tablespoon sesame oil",
+          "Salt and pepper to taste",
+          "Optional toppings: menma (bamboo shoots), narutomaki (fish cake), corn kernels, sliced mushrooms, etc."
+        ],
+        "description": "A comforting Japanese noodle soup featuring chewy ramen noodles in a savory soy sauce-based broth, topped with tender slices of pork belly, soft-boiled eggs, and assorted vegetables. It's a hearty and satisfying dish that's perfect for any occasion.",
+        "method": [
+          "In a pot, heat sesame oil over medium heat. Add minced garlic and grated ginger, and sauté until fragrant.",
+          "Pour in chicken or vegetable broth and bring to a simmer.",
+          "Stir in soy sauce and mirin. Season with salt and pepper to taste.",
+          "Add chopped bok choy or spinach to the broth and cook until wilted.",
+          "Meanwhile, bring a separate pot of water to a boil. Cook ramen noodles according to package instructions. Drain and rinse under cold water.",
+          "Divide cooked ramen noodles among serving bowls.",
+          "Ladle hot broth over the noodles. Arrange pork belly slices, soft-boiled eggs, nori sheets, and sliced green onions on top.",
+          "Serve immediately, with optional toppings on the side.",
+          "Enjoy your delicious homemade ramen!"
+        ],
+        "img": "/assets/img/Classic Shoyu Ramen.jpg"
+      },
+      {
+        "id": 24,
+        "name": "Chicken Tikka Masala",
+        "country": "Indian",
+        "ingredients": [
+          "4 boneless, skinless chicken breasts, cut into bite-sized pieces",
+          "1 cup plain yogurt",
+          "2 tablespoons lemon juice",
+          "2 teaspoons ground cumin",
+          "2 teaspoons ground coriander",
+          "1 teaspoon paprika",
+          "1 teaspoon turmeric",
+          "1 teaspoon garam masala",
+          "2 cloves garlic, minced",
+          "1 tablespoon grated ginger",
+          "Salt and pepper to taste",
+          "For the masala sauce:",
+          "2 tablespoons vegetable oil",
+          "1 large onion, finely chopped",
+          "4 cloves garlic, minced",
+          "1 tablespoon grated ginger",
+          "1 tablespoon ground cumin",
+          "1 tablespoon ground coriander",
+          "1 tablespoon paprika",
+          "1 teaspoon turmeric",
+          "1 teaspoon garam masala",
+          "1/2 teaspoon chili powder (adjust to taste)",
+          "1 can (14 oz) crushed tomatoes",
+          "1 cup heavy cream",
+          "Salt and pepper to taste",
+          "Fresh cilantro for garnish"
+        ],
+        "description": "Tender pieces of marinated chicken cooked in a creamy tomato-based sauce infused with aromatic spices, creating a flavorful and comforting dish. It's a popular Indian recipe often served with rice or naan bread, garnished with fresh cilantro for a finishing touch.",
+        "method": [
+          "In a bowl, combine yogurt, lemon juice, ground cumin, ground coriander, paprika, turmeric, garam masala, minced garlic, grated ginger, salt, and pepper.",
+          "Add chicken pieces to the marinade and mix well to coat. Cover and refrigerate for at least 1 hour, or overnight for best results.",
+          "Preheat the grill or oven to medium-high heat. Thread marinated chicken pieces onto skewers and grill or bake until cooked through and slightly charred, about 10-12 minutes.",
+          "Meanwhile, heat vegetable oil in a large skillet over medium heat. Add chopped onion and cook until softened and translucent, about 5 minutes.",
+          "Add minced garlic and grated ginger to the skillet and cook for another minute until fragrant.",
+          "Stir in ground cumin, ground coriander, paprika, turmeric, garam masala, and chili powder. Cook for 1-2 minutes until spices are fragrant.",
+          "Add crushed tomatoes to the skillet and simmer for 10-15 minutes, stirring occasionally, until the sauce thickens.",
+          "Stir in heavy cream and cooked chicken tikka pieces. Simmer for another 5-10 minutes until heated through.",
+          "Season with salt and pepper to taste.",
+          "Garnish with fresh cilantro and serve hot with rice or naan bread."
+        ],
+        "img": "/assets/img/Chicken-Tikka-Masala-blog.jpg"
+      }
+    ],
+    "featured_recipe": [
+        {
+          "id": 24,
+          "name": "Classic Shoyu Ramen",
+          "ingredients": [
+            "4 packs of ramen noodles (or fresh ramen noodles)",
+            "6 cups chicken or vegetable broth",
+            "4 slices of pork belly or chashu (Japanese braised pork)",
+            "2 soft-boiled eggs, halved",
+            "2 sheets of nori (seaweed), cut into halves",
+            "2 cups chopped bok choy or spinach",
+            "2 green onions, thinly sliced",
+            "2 cloves garlic, minced",
+            "1 tablespoon ginger, grated",
+            "2 tablespoons soy sauce",
+            "1 tablespoon mirin (Japanese rice wine)",
+            "1 tablespoon sesame oil",
+            "Salt and pepper to taste",
+            "Optional toppings: menma (bamboo shoots), narutomaki (fish cake), corn kernels, sliced mushrooms, etc."
+          ],
+          "description": "A comforting Japanese noodle soup featuring chewy ramen noodles in a savory soy sauce-based broth, topped with tender slices of pork belly, soft-boiled eggs, and assorted vegetables. It's a hearty and satisfying dish that's perfect for any occasion.",
+          "method": [
+            "In a pot, heat sesame oil over medium heat. Add minced garlic and grated ginger, and sauté until fragrant.",
+            "Pour in chicken or vegetable broth and bring to a simmer.",
+            "Stir in soy sauce and mirin. Season with salt and pepper to taste.",
+            "Add chopped bok choy or spinach to the broth and cook until wilted.",
+            "Meanwhile, bring a separate pot of water to a boil. Cook ramen noodles according to package instructions. Drain and rinse under cold water.",
+            "Divide cooked ramen noodles among serving bowls.",
+            "Ladle hot broth over the noodles. Arrange pork belly slices, soft-boiled eggs, nori sheets, and sliced green onions on top.",
+            "Serve immediately, with optional toppings on the side.",
+            "Enjoy your delicious homemade ramen!"
+          ],
+          "img": "/assets/img/Classic Shoyu Ramen.jpg"
+        },
+        {
+          "id": 22,
+          "name": "Kimchi Fried Rice",
+          "ingredients": [
+            "2 cups cooked short-grain rice",
+            "1 cup kimchi, chopped",
+            "4 slices bacon, chopped",
+            "1/2 onion, chopped",
+            "2 cloves garlic, minced",
+            "2 green onions, chopped",
+            "2 tablespoons soy sauce",
+            "1 tablespoon sesame oil",
+            "1 teaspoon gochugaru (Korean chili flakes, optional)",
+            "Salt and pepper to taste",
+            "Vegetable oil for cooking",
+            "Fried eggs for serving"
+          ],
+          "description": " A flavorful Korean fried rice dish made with kimchi, bacon, and vegetables, seasoned with soy sauce and sesame oil, and topped with a fried egg for a comforting and satisfying meal.",
+          "method": [
+            "Heat vegetable oil in a large skillet over medium heat.",
+            "Add chopped bacon and cook until crispy.",
+            "Add chopped onion and minced garlic, and sauté until onion is translucent.",
+            "Stir in chopped kimchi and cook for another 2-3 minutes.",
+            "Add cooked rice to the skillet and stir-fry until heated through.",
+            "Season with soy sauce, sesame oil, gochugaru (if using), salt, and pepper. Mix well.",
+            "Garnish with chopped green onions.",
+            "Serve hot, topped with fried eggs."
+          ],
+          "img": "/assets/img/Kimchi Fried Rice.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Momos",
+          "ingredients": [
+            "For the dough:",
+            "2 cups all-purpose flour",
+            "Water, as needed",
+            "For the filling:",
+            "250g ground chicken or vegetables (cabbage, carrot, and onion)",
+            "2 cloves garlic, minced",
+            "1-inch piece of ginger, minced",
+            "2 green chilies, finely chopped",
+            "1 tablespoon soy sauce",
+            "1 teaspoon sesame oil",
+            "1/2 teaspoon ground Sichuan pepper",
+            "Salt to taste",
+            "For the dipping sauce:",
+            "2 tablespoons soy sauce",
+            "1 tablespoon vinegar",
+            "1 teaspoon sesame oil",
+            "1 teaspoon chili sauce"
+          ],
+          "description": " Nepali dumplings filled with a mixture of ground meat or vegetables, seasoned with garlic, ginger, and spices, then wrapped in thin dough and steamed or fried until cooked through. Momos are often served with a spicy dipping sauce and are a popular street food and appetizer in Nepal.",
+          "method": [
+            "In a large mixing bowl, combine all-purpose flour with enough water to make a smooth dough. Knead the dough for about 5 minutes, then cover and let it rest for 30 minutes.",
+            "In another bowl, mix together ground chicken or vegetables with minced garlic, ginger, green chilies, soy sauce, sesame oil, ground Sichuan pepper, and salt. Mix well to combine.",
+            "Divide the dough into small portions and roll each portion into a thin circle.",
+            "Place a spoonful of filling in the center of each circle. Fold the dough over the filling and pinch the edges to seal, creating a crescent shape.",
+            "Steam momos in a steamer for about 10-12 minutes until cooked through.",
+            "Meanwhile, prepare the dipping sauce by mixing soy sauce, vinegar, sesame oil, and chili sauce in a small bowl.",
+            "Serve momos hot with the dipping sauce."
+          ],
+          "img": "/assets/img/momos.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Butter Chicken (Murgh Makhani)",
+          "ingredients": [
+            "500g boneless chicken, cut into bite-sized pieces",
+            "1 cup plain yogurt",
+            "3 tablespoons butter",
+            "1 onion, finely chopped",
+            "2 cloves garlic, minced",
+            "1-inch piece of ginger, minced",
+            "1 teaspoon ground coriander",
+            "1 teaspoon ground cumin",
+            "1 teaspoon garam masala",
+            "1/2 teaspoon turmeric powder",
+            "1/2 teaspoon chili powder",
+            "1 cup tomato puree",
+            "1/2 cup heavy cream",
+            "Salt and pepper to taste",
+            "Fresh coriander leaves for garnish"
+          ],
+          "description": "Tender chicken marinated in yogurt and spices, cooked in a creamy tomato-based sauce with butter, and garnished with fresh coriander leaves. It's a classic Indian dish that's rich, flavorful, and comforting.",
+          "method": [
+            "Marinate chicken pieces in yogurt for at least 1 hour.",
+            "In a large skillet, melt butter over medium heat. Add chopped onion and cook until translucent.",
+            "Add minced garlic and ginger, cook for another minute.",
+            "Add ground coriander, cumin, garam masala, turmeric, and chili powder. Stir well to combine.",
+            "Stir in tomato puree and simmer for 5 minutes.",
+            "Add marinated chicken pieces along with the yogurt marinade to the skillet. Cook until chicken is cooked through.",
+            "Stir in heavy cream and simmer for another 5 minutes.",
+            "Season with salt and pepper to taste.",
+            "Garnish with fresh coriander leaves before serving."
+          ],
+          "img": "/assets/img/Butter Chicken (Murgh Makhani).jpg"
+        },
+        {
+          "id": 8,
+          "name": "Classic Cheeseburger",
+          "ingredients": [
+            "1 lb ground beef",
+            "Salt and pepper to taste",
+            "4 hamburger buns",
+            "4 slices cheddar cheese",
+            "Lettuce leaves",
+            "Sliced tomatoes",
+            "Sliced onions",
+            "Pickles",
+            "Ketchup and mustard (optional)"
+          ],
+          "description": "Juicy beef patties seasoned with salt and pepper, topped with melted cheddar cheese, lettuce, tomato, onion, and pickles, sandwiched between toasted hamburger buns and served with ketchup and mustard. It's a timeless American favorite that's satisfying and delicious.",
+          "method": [
+            "Divide ground beef into 4 equal portions and shape each portion into a patty. Season both sides with salt and pepper.",
+            "Preheat grill or skillet over medium-high heat. Cook burgers for 4-5 minutes per side or until desired doneness is reached.",
+            "During the last minute of cooking, place a slice of cheddar cheese on top of each burger and let it melt.",
+            "Toast hamburger buns on the grill or skillet.",
+            "Assemble burgers by placing lettuce leaves, sliced tomatoes, onions, and pickles on the bottom half of each bun. Top with a cheeseburger patty and the top half of the bun.",
+            "Serve with ketchup and mustard on the side, if desired."
+          ],
+          "img": "/assets/img/Classic Cheeseburger.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Classic Chocolate Chip Cookies",
+          "ingredients": [
+            "1 cup (2 sticks) unsalted butter, softened",
+            "3/4 cup granulated sugar",
+            "3/4 cup packed brown sugar",
+            "2 large eggs",
+            "1 teaspoon vanilla extract",
+            "2 1/4 cups all-purpose flour",
+            "1 teaspoon baking soda",
+            "1/2 teaspoon salt",
+            "2 cups semisweet chocolate chips"
+          ],
+          "description": "These cookies are a timeless favorite, featuring a chewy and soft texture with pockets of melted chocolate chips in every bite. Made with a simple combination of ingredients including flour, butter, sugar, eggs, vanilla extract, baking soda, and chocolate chips, these cookies are perfect for satisfying sweet cravings and are enjoyed by both kids and adults alike.",
+          "method": [
+            "Preheat oven to 375°F (190°C).",
+            "In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.",
+            "Beat in eggs one at a time, then stir in vanilla extract.",
+            "In a separate bowl, combine flour, baking soda, and salt. Gradually add dry ingredients to the creamed mixture and mix well.",
+            "Stir in chocolate chips.",
+            "Drop tablespoonfuls of dough onto ungreased baking sheets.",
+            "Bake for 8-10 minutes or until golden brown. Allow to cool on baking sheets for 5 minutes before transferring to wire racks to cool completely."
+          ],
+          "img": "/assets/img/Classic Chocolate Chip Cookies.jpg"
+        }
+    ]
+  }
+  
